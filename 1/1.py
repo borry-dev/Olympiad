@@ -10,7 +10,6 @@ def marriage():
         arr.sort()
 
 
-
 def output():
     print(*arr, sep=',')
 
@@ -18,5 +17,6 @@ def output():
 def main():
     marriage()
     output()
+
 
 main()

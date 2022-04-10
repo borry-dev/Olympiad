@@ -18,6 +18,7 @@ def diagonal():
 def output():
     print(f"{int(res*x)} {int(res*y)}")
 
+
 def main():
     diagonal()
     output()

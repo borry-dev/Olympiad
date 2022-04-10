@@ -12,6 +12,7 @@ def result():
 
     res.append(math.ceil(i))
 
+
 def output():
     print(res[0])
 
